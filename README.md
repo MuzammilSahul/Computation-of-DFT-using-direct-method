@@ -20,7 +20,8 @@ PC installed with SCILAB
 
 ### SAMPLE OUTPUT:
 
-<img width="1600" height="1072" alt="WhatsApp Image 2026-06-08 at 07 46 07" src="https://github.com/user-attachments/assets/8f3a812a-e5d9-4c39-bea3-7b7396032789" />
+<img width="1600" height="1342" alt="WhatsApp Image 2026-06-08 at 07 44 18" src="https://github.com/user-attachments/assets/747dc605-6048-4189-ba4d-9e2b10525abe" />
+
 <img width="1600" height="1022" alt="WhatsApp Image 2026-06-08 at 07 46 07 (1)" src="https://github.com/user-attachments/assets/c86d2675-71f7-4777-978f-8c4a54d89a1f" />
 
 
